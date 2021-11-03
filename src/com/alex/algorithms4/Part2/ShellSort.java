@@ -6,7 +6,7 @@ import edu.princeton.cs.algs4.StdRandom;
 class ShellSort {
 
     public static void sort(Comparable[] a) {
-12345
+
     }
 
     private static boolean less(Comparable v, Comparable w) {
